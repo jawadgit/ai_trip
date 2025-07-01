@@ -8,7 +8,6 @@
 ## Tools
 - UV Package Manager is used 
 - Disable Conda
-- 
 
 ## Command
 - `pip install uv`
